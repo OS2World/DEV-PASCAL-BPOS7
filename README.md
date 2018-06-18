@@ -1,0 +1,2 @@
+# DEV-PASCAL-BPOS7
+Borland Pascal 7.x OS/2 PATCH
