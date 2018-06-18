@@ -1,0 +1,4 @@
+This package patches the Borland Pascal 7.0 compiler, units and runtime
+library, allowing you to write 16-bit OS/2 programs for native OS/2 text
+modes and even Presentation Manager!
+
